@@ -21,7 +21,8 @@
 <div>
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="60px" src="  https://www.flaticon.com/br/icone-gratis/script-java_1199124?term=javascript&page=1&position=1&origin=search&related_id=1199124" />
+  <!-- https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg -->
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 
