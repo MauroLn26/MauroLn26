@@ -25,6 +25,9 @@
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 
+<br>
+
+## Estatísticas: 📊
 
 <div>
   <a href="https://github.com/MauroLn26">
