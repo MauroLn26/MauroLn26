@@ -3,10 +3,8 @@
 ## Meu nome é *Mauro Lane*! 🙋🏾‍♂️
 ## Sejam bem vindo ao meu perfil GitHub 
 
-Sou estudante de programação, formado em Análise e Desenvolvimento de Sistemas (UNIUBE). Atualmente, estou me aprofundando em desenvolvimento Web, com foco em me tornar um profissional Full Stack. 💡
-
-Atualmente, trabalho como (Analista de HelpDesk - Zema). 
-<img src="https://zemaapi.conectala.com.br/app/assets/images/store_image/1.png" />
+--> Sou estudante de programação, formado em Análise e Desenvolvimento de Sistemas (UNIUBE). Atualmente, estou me aprofundando em desenvolvimento Web, com foco em me tornar um profissional Full Stack. 💡
+--> Atualmente, trabalho como (Analista de HelpDesk - Zema). 
 
 ## Caso tenham interesse em saber mais sobre mim, aqui estão algumas das minhas redes sociais: 💬
 
