@@ -1,16 +1,31 @@
-## Hi there 👋
+## Fala pessoal! 👋
 
-<!--
-**MauroLn26/MauroLn26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Meu nome é *Mauro Lane*! 🙋🏾‍♂️
+## Sejam bem vindo ao meu perfil GitHub 
 
-Here are some ideas to get you started:
+Sou estudante de programação, formado em Análise e Desenvolvimento de Sistemas (UNIUBE). Atualmente, estou me aprofundando em desenvolvimento Web, com foco em me tornar um profissional Full Stack. 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, trabalho como (Analista de HelpDesk - Zema). 
+<img src="https://zemaapi.conectala.com.br/app/assets/images/store_image/1.png" />
+
+## Caso tenham interesse em saber mais sobre mim, aqui estão algumas das minhas redes sociais: 💬
+
+## Linkedin:
+<a href="https://www.linkedin.com/in/mauro-lane-492061216/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+## Instagram: 
+<a href="https://www.instagram.com/mauro.lle" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+## Estou aprendendo 👩🏽‍💻📚
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+
+<div>
+<a href="https://github.com/MauroLn26">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?MauroLn26&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?MauroLn26&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
