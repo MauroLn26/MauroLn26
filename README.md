@@ -1,4 +1,4 @@
-## Olá! Meu nome é *Mauro Lane*. 🙋🏾‍♂️
+## Olá! Meu nome é *Mauro Lane* 🙋🏾‍♂️
 ## Sejam bem vindo ao meu perfil GitHub! 👋
 
 --> Sou estudante de programação, formado em Análise e Desenvolvimento de Sistemas (UNIUBE).<br>
